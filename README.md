@@ -71,14 +71,87 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Live Demo | Source Code |
-|---------|-----------|-------------|
-| 🤖 **AI Exam Preparation Platform** | [Live Demo]((https://ai-exam-prep-psi.vercel.app/)) | [GitHub](https://github.com/Patelprince6064/your-repository) |
-| 🏋️ **Gym CRM** | [Live Demo](https://your-demo.vercel.app) | [GitHub](https://github.com/Patelprince6064/your-repository) |
-| ☕ **Amrita Coffee House** | [Live Demo](https://your-demo.vercel.app) | [GitHub](https://github.com/Patelprince6064/Amrita-Coffee-House) |
-| 💻 **Laptop Price Prediction** | — | [GitHub](https://github.com/Patelprince6064/laptop-price-prediction) |
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Exam Preparation Platform
+
+AI-powered learning platform that generates personalized quizzes, notes, summaries, and study recommendations.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Gemini AI`
+
+🔗 **Live Demo**  
+https://ai-exam-prep-psi.vercel.app/
+
+💻 **Source Code**  
+https://github.com/Patelprince6064/AI-exam-prep
+
+</td>
+
+<td width="50%">
+
+### 🏋️ Gym CRM
+
+Complete Gym Management System with authentication, member management, attendance, dashboard, and payment management.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+🔗 **Live Demo**  
+https://gym-crm-p5nh.vercel.app/
+
+💻 **Source Code**  
+https://github.com/Patelprince6064/GYM-CRM
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☕ Amrita Coffee House
+
+Modern coffee shop website with responsive UI and engaging customer experience.
+
+**Tech Stack**
+
+`React` `Tailwind CSS` `Node.js`
+
+🔗 **Live Demo**  
+https://amrita-coffee-house-pink.vercel.app/
+
+💻 **Source Code**  
+https://github.com/Patelprince6064/Amrita-Coffee-House
+
+</td>
+
+<td width="50%">
+
+### 💻 Laptop Price Prediction
+
+Machine Learning application for predicting laptop prices using regression algorithms and feature engineering.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-Learn`
+
+🔗 **Live Demo**
+
+Coming Soon
+
+💻 **Source Code**
+
+https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
+
+</td>
+</tr>
+</table>
 
 ---
 
