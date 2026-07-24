@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://your-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
 </a>
 
@@ -71,14 +71,14 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 **AI Exam Preparation Platform** | AI-powered learning platform with personalized quizzes and study recommendations. | React • Node.js • MongoDB • Gemini AI |
-| 🏋️ **Gym CRM** | Complete gym management system with authentication, attendance, dashboard, and payments. | MERN Stack |
-| ☕ **Amrita Coffee House** | Responsive restaurant website with modern UI and backend integration. | React • Tailwind • Node.js |
-| 💻 **Laptop Price Prediction** | Machine Learning model for predicting laptop prices using regression algorithms. | Python • Pandas • Scikit-Learn |
+| Project | Live Demo | Source Code |
+|---------|-----------|-------------|
+| 🤖 **AI Exam Preparation Platform** | [Live Demo]((https://ai-exam-prep-psi.vercel.app/)) | [GitHub](https://github.com/Patelprince6064/your-repository) |
+| 🏋️ **Gym CRM** | [Live Demo](https://your-demo.vercel.app) | [GitHub](https://github.com/Patelprince6064/your-repository) |
+| ☕ **Amrita Coffee House** | [Live Demo](https://your-demo.vercel.app) | [GitHub](https://github.com/Patelprince6064/Amrita-Coffee-House) |
+| 💻 **Laptop Price Prediction** | — | [GitHub](https://github.com/Patelprince6064/laptop-price-prediction) |
 
 ---
 
