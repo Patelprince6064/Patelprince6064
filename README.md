@@ -61,61 +61,77 @@
 
 ---
 
-# 🛠 Tech Arsenal
+# 💻 Developer Toolbox
 
 <table>
+
 <tr>
-<td align="center">
 
-### 💻 Languages
+<td>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
+### 🚀 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 
 </td>
+
+<td>
+
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center">
 
-### 🎨 Frontend
+<td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 </td>
+
+<td>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center">
 
-### ⚙️ Backend
+<td>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+### ☁ Cloud
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github"/>
+<img src="https://skillicons.dev/icons?i=docker,aws"/>
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
+<td>
 
-### 🛠 Tools
+### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </td>
+
 </tr>
 
 </table>
-
 ---
 
 # 🚀 Featured Projects
