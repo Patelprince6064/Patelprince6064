@@ -227,7 +227,7 @@ If you'd like to collaborate, discuss technology, or have an internship opportun
 https://www.linkedin.com/in/prince-patel-b0075832a/
 
 🌐 **Portfolio:**  
-Add your portfolio link here.
+https://portfolio-five-omega-67.vercel.app/
 
 ---
 
