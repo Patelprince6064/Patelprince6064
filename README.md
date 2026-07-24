@@ -61,13 +61,60 @@
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Arsenal
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nodejs,express,mongodb,mysql,tailwind,docker,git,github,aws,vscode,postman"/>
+### 💻 Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
