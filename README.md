@@ -61,77 +61,52 @@
 
 ---
 
+
 # 💻 Developer Toolbox
 
-<table>
-
-<tr>
-
-<td>
+<div align="center">
 
 ### 🚀 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 
-</td>
+<br><br>
 
-<td>
-
-### ⚙ Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-</td>
+<br><br>
 
-</tr>
-
-<tr>
-
-<td>
-
-### 🗄 Database
+### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-</td>
+<br><br>
 
-<td>
-
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-</td>
+<br><br>
 
-</tr>
-
-<tr>
-
-<td>
-
-### ☁ Cloud
+### ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,aws"/>
 
-</td>
+<br><br>
 
-<td>
-
-### 🔧 Tools
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
-</td>
-
-</tr>
-
-</table>
+</div>
 ---
 
 # 🚀 Featured Projects
