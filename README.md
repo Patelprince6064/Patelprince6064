@@ -62,52 +62,60 @@
 ---
 
 
-# 💻 Developer Toolbox
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="250">
 
-### 🚀 Frontend
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</td>
 
-<br><br>
+<td align="center" width="250">
 
 ### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</td>
+</tr>
 
-<br><br>
+<tr>
+<td align="center">
 
 ### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</td>
 
-<br><br>
+<td align="center">
 
-### 🤖 AI / Machine Learning
+### ☁️ Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<tr>
+<td align="center">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+### 🤖 AI/ML
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/><br><br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</td>
 
-<br><br>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws"/>
-
-<br><br>
+<td align="center">
 
 ### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</div>
----
+</td>
+</tr>
+</table>
 
 # 🚀 Featured Projects
 
