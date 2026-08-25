@@ -151,7 +151,7 @@ Complete Gym Management System with authentication, member management, attendanc
 `React` `Node.js` `Express` `MongoDB`
 
 🔗 **Live Demo**  
-https://gym-crm-p5nh.vercel.app/
+https://smartgymcrm.vercel.app
 
 💻 **Source Code**  
 https://github.com/Patelprince6064/GYM-CRM
