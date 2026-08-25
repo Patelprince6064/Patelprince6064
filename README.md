@@ -3,6 +3,7 @@
 # Hi 👋, I'm Prince Patel
 
 ### Software Engineer | MERN Stack Developer | AI & Machine Learning Enthusiast
+### Build something every day. Learn something every day. 🚀
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=2563EB&lines=Software+Engineer;MERN+Stack+Developer;AI+%26+Machine+Learning;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Building+Scalable+Software"/>
 
