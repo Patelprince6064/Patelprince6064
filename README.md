@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Prince Patel
 
-### Software Engineer | MERN Stack Developer | AI & Machine Learning Enthusiast
+### AI/ML & Full-Stack Developer | Python | React.js | Node.js
 
-### 🚀 Build something every day. Learn something every day.
+### 🚀 Building real-world applications with AI, data, and modern web technologies.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=2563EB&lines=Software+Engineer;MERN+Stack+Developer;AI+%26+Machine+Learning;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Building+Scalable+Software;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=2563EB&lines=AI%2FML+Developer;Full-Stack+Developer;Python+%7C+Machine+Learning;React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications;Turning+Ideas+Into+Software"/>
 
 <br>
 
@@ -20,22 +20,24 @@
 
 🎓 B.Tech Information Technology & Engineering Student at **Parul University**
 
-💻 Passionate about **Software Engineering, Full Stack Development, Artificial Intelligence, and Machine Learning**
+💻 Aspiring **AI/ML & Full-Stack Developer** focused on building practical and scalable applications.
 
-🚀 Building scalable and real-world web applications using the **MERN Stack**.
+🤖 Working with **Python, Pandas, NumPy, and Scikit-learn** to explore Machine Learning and real-world datasets.
 
-🤖 Exploring **AI/ML** and integrating intelligent features into modern applications.
+🌐 Building full-stack applications using **React.js, Node.js, Express.js, and MongoDB**.
 
-🌱 Currently learning:
+⚡ Interested in combining **AI/ML with modern web technologies** to create useful software.
 
-- Docker
-- AWS Cloud
-- System Design
+🌱 Currently focusing on:
+
+- Machine Learning & Data Science
+- AI-Powered Applications
 - Advanced Backend Development
-- AI & Machine Learning
+- Docker & Cloud Deployment
 - Data Structures & Algorithms
+- System Design
 
-🎯 **Actively looking for Software Engineering opportunities.**
+🎯 **Open to Software Engineering, AI/ML, and Full-Stack opportunities.**
 
 ---
 
@@ -78,7 +80,9 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/>
 
 </td>
 
@@ -86,7 +90,9 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
 
 </td>
 
@@ -98,6 +104,8 @@
 
 ### 🗄️ Database
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
 </td>
@@ -106,7 +114,9 @@
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel&theme=dark"/>
 
 </td>
 
@@ -136,11 +146,14 @@
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter&theme=dark"/>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -153,60 +166,61 @@
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🤖 AI Exam Preparation Platform
 
-AI-powered learning platform designed to help students prepare for exams using intelligent learning tools.
+AI-powered learning platform designed to make exam preparation more personalized and interactive.
 
 ### Features
 
 - AI-generated quizzes
 - AI-generated notes
-- Summaries
+- Intelligent summaries
 - Personalized study recommendations
 - Interactive learning experience
+- User authentication
 
 ### Tech Stack
 
-`React` `Node.js` `Express` `MongoDB` `Gemini AI`
+`React.js` `Node.js` `Express.js` `MongoDB` `AI`
 
-🔗 **Live Demo**
+### 🔗 Links
 
+**Live Demo**  
 https://ai-exam-prep-psi.vercel.app/
 
-💻 **Source Code**
-
+**Source Code**  
 https://github.com/Patelprince6064/AI-exam-prep
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏋️ Gym CRM
+## 💻 Laptop Price Prediction
 
-Complete Gym Management System designed to simplify gym operations and member management.
+Machine Learning application that predicts laptop prices based on hardware specifications and relevant features.
 
 ### Features
 
-- Authentication
-- Member management
-- Attendance tracking
-- Dashboard
-- Payment management
-- Gym administration
+- Data preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Regression algorithms
+- Model evaluation
+- Price prediction
 
 ### Tech Stack
 
-`React` `Node.js` `Express` `MongoDB`
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
-🔗 **Live Demo**
+### 🔗 Links
 
-https://smartgymcrm.vercel.app/
+**Live Demo**  
+Coming Soon
 
-💻 **Source Code**
-
-https://github.com/Patelprince6064/GYM-CRM
+**Source Code**  
+https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
 
 </td>
 
@@ -214,11 +228,40 @@ https://github.com/Patelprince6064/GYM-CRM
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+## 🏋️ Gym CRM
+
+Full-stack gym management platform designed to simplify member management and daily gym operations.
+
+### Features
+
+- Authentication
+- Member management
+- Attendance tracking
+- Payment management
+- Admin dashboard
+- Gym administration
+
+### Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+### 🔗 Links
+
+**Live Demo**  
+https://smartgymcrm.vercel.app/
+
+**Source Code**  
+https://github.com/Patelprince6064/GYM-CRM
+
+</td>
+
+<td width="50%" valign="top">
 
 ## ☕ Amrita Coffee House
 
-Modern and responsive coffee shop website focused on providing a clean UI and engaging customer experience.
+Modern and responsive web application focused on clean UI, product presentation, and customer experience.
 
 ### Features
 
@@ -226,47 +269,19 @@ Modern and responsive coffee shop website focused on providing a clean UI and en
 - Modern UI
 - Product showcase
 - Interactive sections
-- Mobile-friendly layout
+- Mobile-friendly experience
 
 ### Tech Stack
 
-`React` `Tailwind CSS` `Node.js`
+`React.js` `Tailwind CSS` `Node.js`
 
-🔗 **Live Demo**
+### 🔗 Links
 
+**Live Demo**  
 https://amrita-coffee-house-pink.vercel.app/
 
-💻 **Source Code**
-
+**Source Code**  
 https://github.com/Patelprince6064/Amrita-Coffee-House
-
-</td>
-
-<td width="50%">
-
-## 💻 Laptop Price Prediction
-
-Machine Learning project that predicts laptop prices based on hardware specifications and other relevant features.
-
-### Features
-
-- Data preprocessing
-- Feature engineering
-- Exploratory data analysis
-- Regression algorithms
-- Price prediction
-
-### Tech Stack
-
-`Python` `Pandas` `NumPy` `Scikit-Learn`
-
-🔗 **Live Demo**
-
-Coming Soon
-
-💻 **Source Code**
-
-https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
 
 </td>
 
@@ -276,42 +291,16 @@ https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Patelprince6064&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patelprince6064&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Patelprince6064&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patelprince6064&theme=tokyonight" width="95%"/>
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 <div align="center">
 
-| 🚀 Full Stack | 🤖 AI / ML | ☁️ Cloud | 💻 DSA |
+| 🤖 AI / ML | 🌐 Full Stack | ☁️ Cloud & DevOps | 💻 DSA |
 |:---:|:---:|:---:|:---:|
-| MERN Stack | Machine Learning | AWS | LeetCode |
-| React | Python | Docker | Algorithms |
-| Node.js | Scikit-Learn | Deployment | Problem Solving |
-| MongoDB | AI Applications | Cloud Architecture | Interview Prep |
+| Machine Learning | React.js | AWS | LeetCode |
+| Python | Node.js | Docker | Algorithms |
+| Scikit-learn | Express.js | Deployment | Problem Solving |
+| AI Applications | MongoDB | Cloud Fundamentals | Interview Preparation |
 
 </div>
 
@@ -319,15 +308,17 @@ https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
 
 # 📚 Currently Learning
 
+<div align="center">
+
 ```text
-Docker
-   ↓
-AWS Cloud
-   ↓
+Machine Learning
+       ↓
+AI-Powered Applications
+       ↓
 Advanced Backend Development
-   ↓
-System Design
-   ↓
-AI & Machine Learning
-   ↓
+       ↓
+Docker & Cloud Deployment
+       ↓
 Data Structures & Algorithms
+       ↓
+System Design
