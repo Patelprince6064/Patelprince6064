@@ -1,325 +1,206 @@
 <div align="center">
 
-# Hi 👋, I'm Prince Patel
+# Prince Patel
 
-### AI/ML & Full-Stack Developer | Python | Machine Learning | React.js | Node.js
+### AI/ML & Full-Stack Developer
 
-### 🚀 Building real-world AI-powered applications and learning by building.
+**Python • Machine Learning • React.js • Node.js • FastAPI • MongoDB**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=2563EB&lines=AI%2FML+Developer;Full-Stack+Developer;Python+%7C+Machine+Learning;React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications;Always+Learning+%26+Building"/>
+Building practical software and AI-powered applications with a focus on clean architecture, problem solving, and real-world impact.
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-🎓 B.Tech Information Technology & Engineering student at **Parul University**
-
-💻 Aspiring **AI/ML & Full-Stack Developer** passionate about building practical software and intelligent applications.
-
-🤖 Working with **Python, Pandas, NumPy, and Scikit-learn** and exploring Machine Learning through real-world datasets.
-
-🌐 Building full-stack applications using **React.js, Node.js, Express.js, and MongoDB**.
-
-🚀 Interested in developing and deploying applications that combine **modern web technologies with AI/ML**.
-
-🧠 Currently strengthening:
-
-- Machine Learning & Data Science
-- Data Structures & Algorithms
-- Advanced Backend Development
-- Docker & Cloud Deployment
-- AI-Powered Applications
-
-🎯 **Open to Software Engineering, AI/ML, and Full-Stack opportunities.**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<br>
 
 <a href="mailto:pp50646464@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/Patelprince6064">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://leetcode.com/u/Patelprince6064/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
 <a href="https://portfolio-five-omega-67.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="250">
-
-### 🎨 Frontend
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
-
-</td>
-
-<td align="center" width="250">
-
-### ⚙️ Backend
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="250">
-
-### 🗄️ Database
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-</td>
-
-<td align="center" width="250">
-
-### 🤖 AI / Machine Learning
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### ☁️ Cloud & DevOps
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel&theme=dark"/>
-
-</td>
-
-<td align="center">
-
-### 🛠️ Tools
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=Profile%20Views&style=flat-square"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## About
 
-<div align="center">
+I am a **B.Tech Information Technology & Engineering student at Parul University** with a strong interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
-<table>
+I enjoy turning ideas into functional applications, working with real-world datasets, developing REST APIs, and integrating intelligent features into modern web applications.
 
-<tr>
+### Currently focused on
 
-<td width="50%" valign="top">
+- Machine Learning & Data Science
+- AI-powered applications
+- Full-Stack Web Development
+- Backend & API Development
+- Data Structures & Algorithms
+- Docker & Cloud Deployment
+- Software Engineering fundamentals
 
-## 🤖 AI Exam Preparation Platform
+---
 
-AI-powered learning platform designed to help students prepare for exams using intelligent learning tools.
+## Technical Skills
 
-### ✨ Features
+### Languages
 
-- 🤖 AI-generated quizzes
-- 📝 AI-generated notes
-- 📚 Intelligent summaries
-- 🎯 Personalized study recommendations
-- 📊 Interactive learning experience
-- 🔐 User authentication
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🧰 Tech Stack
+### AI / Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## Featured Projects
+
+### AI Exam Preparation Platform
+
+An AI-powered learning platform designed to help students prepare for examinations through personalized and interactive learning.
+
+**Key Features**
+
+- AI-generated quizzes and study material
+- AI-powered notes and summaries
+- Personalized learning recommendations
+- Interactive learning experience
+- User authentication
+
+**Tech Stack**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `AI`
 
-### 🔗 Links
+**Live:** https://ai-exam-prep-psi.vercel.app/
 
-**Live Demo:**  
-https://ai-exam-prep-psi.vercel.app/
+**Repository:** https://github.com/Patelprince6064/AI-exam-prep
 
-**Source Code:**  
-https://github.com/Patelprince6064/AI-exam-prep
+---
 
-</td>
+### Laptop Price Prediction
 
-<td width="50%" valign="top">
+A Machine Learning application that predicts laptop prices based on hardware specifications and other relevant features.
 
-## 💻 Laptop Price Prediction
+**Key Areas**
 
-Machine Learning project that predicts laptop prices based on hardware specifications and relevant features.
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Regression models
+- Model evaluation
+- Price prediction
 
-### ✨ Features
-
-- 📊 Data preprocessing
-- 🔍 Exploratory Data Analysis
-- ⚙️ Feature engineering
-- 🤖 Regression algorithms
-- 📈 Model evaluation
-- 💰 Price prediction
-
-### 🧰 Tech Stack
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
-### 🔗 Links
+**Repository:** https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
 
-**Live Demo:**  
-Coming Soon
+---
 
-**Source Code:**  
-https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
+### Gym CRM
 
-</td>
+A full-stack gym management platform designed to simplify member management and day-to-day gym operations.
 
-</tr>
+**Key Features**
 
-<tr>
+- Authentication
+- Member management
+- Attendance tracking
+- Payment management
+- Administrative dashboard
 
-<td width="50%" valign="top">
-
-## 🏋️ Gym CRM
-
-Complete Gym Management System designed to simplify gym operations, member management, attendance, and payments.
-
-### ✨ Features
-
-- 🔐 Authentication
-- 👥 Member management
-- 📅 Attendance tracking
-- 💳 Payment management
-- 📊 Admin dashboard
-- 🏢 Gym management
-
-### 🧰 Tech Stack
+**Tech Stack**
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-### 🔗 Links
+**Live:** https://smartgymcrm.vercel.app/
 
-**Live Demo:**  
-https://smartgymcrm.vercel.app/
+**Repository:** https://github.com/Patelprince6064/GYM-CRM
 
-**Source Code:**  
-https://github.com/Patelprince6064/GYM-CRM
+---
 
-</td>
+### Amrita Coffee House
 
-<td width="50%" valign="top">
+A modern responsive web application created for a coffee shop, focusing on clean UI, responsive design, and user experience.
 
-## ☕ Amrita Coffee House
+**Key Features**
 
-Modern and responsive coffee shop website focused on clean UI, product presentation, and customer experience.
+- Responsive interface
+- Product showcase
+- Interactive sections
+- Mobile-friendly design
 
-### ✨ Features
-
-- 📱 Responsive design
-- 🎨 Modern UI
-- ☕ Product showcase
-- ✨ Interactive sections
-- 📱 Mobile-friendly layout
-
-### 🧰 Tech Stack
+**Tech Stack**
 
 `React.js` `Tailwind CSS` `Node.js`
 
-### 🔗 Links
+**Live:** https://amrita-coffee-house-pink.vercel.app/
 
-**Live Demo:**  
-https://amrita-coffee-house-pink.vercel.app/
-
-**Source Code:**  
-https://github.com/Patelprince6064/Amrita-Coffee-House
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+**Repository:** https://github.com/Patelprince6064/Amrita-Coffee-House
 
 ---
 
-# 🧠 What I Build
-
-<div align="center">
-
-| 🤖 AI & ML | 🌐 Full Stack | ☁️ Deployment | 💻 Problem Solving |
-|:---:|:---:|:---:|:---:|
-| Machine Learning | React.js | Vercel | LeetCode |
-| Python | Node.js | Docker | DSA |
-| Scikit-learn | Express.js | AWS | Algorithms |
-| AI Applications | MongoDB | Cloud | Problem Solving |
-
-</div>
-
----
-
-# 🎯 Current Focus
+## Current Focus
 
 ```text
-🤖 Machine Learning
+Artificial Intelligence
         ↓
-🐍 Python & Data Science
+Machine Learning
         ↓
-🧠 AI-Powered Applications
+Python & Data Science
         ↓
-🌐 Advanced Full-Stack Development
+AI-Powered Applications
         ↓
-🐳 Docker & Cloud Deployment
+Full-Stack Development
         ↓
-💻 Data Structures & Algorithms
+Backend & API Engineering
         ↓
-🏗️ System Design
+Docker & Cloud Deployment
+        ↓
+Data Structures & Algorithms
