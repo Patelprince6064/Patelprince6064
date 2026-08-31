@@ -2,13 +2,13 @@
 
 # Hi 👋, I'm Prince Patel
 
-### Software Engineer | MERN Stack Developer | AI & Machine Learning Enthusiast
+### AI/ML & Full-Stack Developer | Python | Machine Learning | React.js | Node.js
 
-### 🚀 Build something every day. Learn something every day.
+### 🚀 Building real-world AI-powered applications and learning by building.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=2563EB&lines=Software+Engineer;MERN+Stack+Developer;AI+%26+Machine+Learning;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Building+Scalable+Software;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=2563EB&lines=AI%2FML+Developer;Full-Stack+Developer;Python+%7C+Machine+Learning;React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications;Always+Learning+%26+Building"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
@@ -18,24 +18,25 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Information Technology & Engineering Student at **Parul University**
+🎓 B.Tech Information Technology & Engineering student at **Parul University**
 
-💻 Passionate about **Software Engineering, Full Stack Development, Artificial Intelligence, and Machine Learning**
+💻 Aspiring **AI/ML & Full-Stack Developer** passionate about building practical software and intelligent applications.
 
-🚀 Building scalable and real-world web applications using the **MERN Stack**.
+🤖 Working with **Python, Pandas, NumPy, and Scikit-learn** and exploring Machine Learning through real-world datasets.
 
-🤖 Exploring **AI/ML** and integrating intelligent features into modern applications.
+🌐 Building full-stack applications using **React.js, Node.js, Express.js, and MongoDB**.
 
-🌱 Currently learning:
+🚀 Interested in developing and deploying applications that combine **modern web technologies with AI/ML**.
 
-- Docker
-- AWS Cloud
-- System Design
-- Advanced Backend Development
-- AI & Machine Learning
+🧠 Currently strengthening:
+
+- Machine Learning & Data Science
 - Data Structures & Algorithms
+- Advanced Backend Development
+- Docker & Cloud Deployment
+- AI-Powered Applications
 
-🎯 **Actively looking for Software Engineering opportunities.**
+🎯 **Open to Software Engineering, AI/ML, and Full-Stack opportunities.**
 
 ---
 
@@ -78,7 +79,9 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
 
 </td>
 
@@ -86,7 +89,9 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
 
 </td>
 
@@ -94,27 +99,17 @@
 
 <tr>
 
-<td align="center">
+<td align="center" width="250">
 
 ### 🗄️ Database
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
 </td>
 
-<td align="center">
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
+<td align="center" width="250">
 
 ### 🤖 AI / Machine Learning
 
@@ -125,10 +120,22 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ☁️ Cloud & DevOps
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel&theme=dark"/>
 
 </td>
 
@@ -136,11 +143,14 @@
 
 ### 🛠️ Tools
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -149,64 +159,67 @@
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🤖 AI Exam Preparation Platform
 
 AI-powered learning platform designed to help students prepare for exams using intelligent learning tools.
 
-### Features
+### ✨ Features
 
-- AI-generated quizzes
-- AI-generated notes
-- Summaries
-- Personalized study recommendations
-- Interactive learning experience
+- 🤖 AI-generated quizzes
+- 📝 AI-generated notes
+- 📚 Intelligent summaries
+- 🎯 Personalized study recommendations
+- 📊 Interactive learning experience
+- 🔐 User authentication
 
-### Tech Stack
+### 🧰 Tech Stack
 
-`React` `Node.js` `Express` `MongoDB` `Gemini AI`
+`React.js` `Node.js` `Express.js` `MongoDB` `AI`
 
-🔗 **Live Demo**
+### 🔗 Links
 
+**Live Demo:**  
 https://ai-exam-prep-psi.vercel.app/
 
-💻 **Source Code**
-
+**Source Code:**  
 https://github.com/Patelprince6064/AI-exam-prep
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏋️ Gym CRM
+## 💻 Laptop Price Prediction
 
-Complete Gym Management System designed to simplify gym operations and member management.
+Machine Learning project that predicts laptop prices based on hardware specifications and relevant features.
 
-### Features
+### ✨ Features
 
-- Authentication
-- Member management
-- Attendance tracking
-- Dashboard
-- Payment management
-- Gym administration
+- 📊 Data preprocessing
+- 🔍 Exploratory Data Analysis
+- ⚙️ Feature engineering
+- 🤖 Regression algorithms
+- 📈 Model evaluation
+- 💰 Price prediction
 
-### Tech Stack
+### 🧰 Tech Stack
 
-`React` `Node.js` `Express` `MongoDB`
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
-🔗 **Live Demo**
+### 🔗 Links
 
-https://smartgymcrm.vercel.app/
+**Live Demo:**  
+Coming Soon
 
-💻 **Source Code**
-
-https://github.com/Patelprince6064/GYM-CRM
+**Source Code:**  
+https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
 
 </td>
 
@@ -214,59 +227,60 @@ https://github.com/Patelprince6064/GYM-CRM
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## ☕ Amrita Coffee House
+## 🏋️ Gym CRM
 
-Modern and responsive coffee shop website focused on providing a clean UI and engaging customer experience.
+Complete Gym Management System designed to simplify gym operations, member management, attendance, and payments.
 
-### Features
+### ✨ Features
 
-- Responsive design
-- Modern UI
-- Product showcase
-- Interactive sections
-- Mobile-friendly layout
+- 🔐 Authentication
+- 👥 Member management
+- 📅 Attendance tracking
+- 💳 Payment management
+- 📊 Admin dashboard
+- 🏢 Gym management
 
-### Tech Stack
+### 🧰 Tech Stack
 
-`React` `Tailwind CSS` `Node.js`
+`React.js` `Node.js` `Express.js` `MongoDB`
 
-🔗 **Live Demo**
+### 🔗 Links
 
-https://amrita-coffee-house-pink.vercel.app/
+**Live Demo:**  
+https://smartgymcrm.vercel.app/
 
-💻 **Source Code**
-
-https://github.com/Patelprince6064/Amrita-Coffee-House
+**Source Code:**  
+https://github.com/Patelprince6064/GYM-CRM
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 💻 Laptop Price Prediction
+## ☕ Amrita Coffee House
 
-Machine Learning project that predicts laptop prices based on hardware specifications and other relevant features.
+Modern and responsive coffee shop website focused on clean UI, product presentation, and customer experience.
 
-### Features
+### ✨ Features
 
-- Data preprocessing
-- Feature engineering
-- Exploratory data analysis
-- Regression algorithms
-- Price prediction
+- 📱 Responsive design
+- 🎨 Modern UI
+- ☕ Product showcase
+- ✨ Interactive sections
+- 📱 Mobile-friendly layout
 
-### Tech Stack
+### 🧰 Tech Stack
 
-`Python` `Pandas` `NumPy` `Scikit-Learn`
+`React.js` `Tailwind CSS` `Node.js`
 
-🔗 **Live Demo**
+### 🔗 Links
 
-Coming Soon
+**Live Demo:**  
+https://amrita-coffee-house-pink.vercel.app/
 
-💻 **Source Code**
-
-https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
+**Source Code:**  
+https://github.com/Patelprince6064/Amrita-Coffee-House
 
 </td>
 
@@ -274,29 +288,20 @@ https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
 
 </table>
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Patelprince6064&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patelprince6064&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Patelprince6064&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
 
-# 📈 GitHub Contributions
+# 🧠 What I Build
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patelprince6064&theme=tokyonight" width="95%"/>
+| 🤖 AI & ML | 🌐 Full Stack | ☁️ Deployment | 💻 Problem Solving |
+|:---:|:---:|:---:|:---:|
+| Machine Learning | React.js | Vercel | LeetCode |
+| Python | Node.js | Docker | DSA |
+| Scikit-learn | Express.js | AWS | Algorithms |
+| AI Applications | MongoDB | Cloud | Problem Solving |
 
 </div>
 
@@ -304,30 +309,17 @@ https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
 
 # 🎯 Current Focus
 
-<div align="center">
-
-| 🚀 Full Stack | 🤖 AI / ML | ☁️ Cloud | 💻 DSA |
-|:---:|:---:|:---:|:---:|
-| MERN Stack | Machine Learning | AWS | LeetCode |
-| React | Python | Docker | Algorithms |
-| Node.js | Scikit-Learn | Deployment | Problem Solving |
-| MongoDB | AI Applications | Cloud Architecture | Interview Prep |
-
-</div>
-
----
-
-# 📚 Currently Learning
-
 ```text
-Docker
-   ↓
-AWS Cloud
-   ↓
-Advanced Backend Development
-   ↓
-System Design
-   ↓
-AI & Machine Learning
-   ↓
-Data Structures & Algorithms
+🤖 Machine Learning
+        ↓
+🐍 Python & Data Science
+        ↓
+🧠 AI-Powered Applications
+        ↓
+🌐 Advanced Full-Stack Development
+        ↓
+🐳 Docker & Cloud Deployment
+        ↓
+💻 Data Structures & Algorithms
+        ↓
+🏗️ System Design
