@@ -1,26 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Prince%20Patel&fontSize=70&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=200&section=header&text=Prince%20Patel&fontSize=75&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&color=7C3AED&lines=AI%2FML+Developer;Full-Stack+Engineer;Building+AI-Powered+Applications;Python+%7C+React+%7C+Node.js;Turning+Ideas+Into+Real+Products"/>
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<a href="https://github.com/Patelprince6064">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-five-omega-67.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 </div>
 
@@ -30,23 +14,40 @@
 
 <table>
 <tr>
+
 <td width="60%" valign="top">
 
 🎓 B.Tech Information Technology & Engineering student at **Parul University**
 
+<br>
+
 🤖 **AI/ML & Full-Stack Developer** passionate about building intelligent and practical software.
+
+<br>
 
 🚀 Building **AI-powered applications, Machine Learning systems, and modern full-stack platforms.**
 
+<br>
+
 🌱 Currently exploring **Machine Learning, Generative AI, AI Agents, Cloud & DevOps.**
+
+<br>
 
 💬 Ask me about **Python, AI/ML, React.js, Node.js, Backend Development & REST APIs.**
 
+<br>
+
 💡 I enjoy turning ideas into **real-world applications** using AI and modern software technologies.
 
-📚 Always learning. Always experimenting. Always building.
+<br>
+
+📚 **Always learning. Always experimenting. Always building.**
+
+<br>
 
 📫 Reach me: **[pp50646464@gmail.com](mailto:pp50646464@gmail.com)**
+
+<br>
 
 📄 **[View My Resume](YOUR_RESUME_LINK)**
 
@@ -54,9 +55,12 @@
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+     width="420"
+     alt="Developer Coding Animation"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -64,26 +68,26 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/Patelprince6064">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pp50646464@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Patelprince6064/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-five-omega-67.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
