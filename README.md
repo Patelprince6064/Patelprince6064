@@ -27,8 +27,10 @@
 ---
 
 ## 👨‍💻 About Me
-<img align="right" alt="AI Developer Animation" width="420"
-src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/ai.gif">
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 🎓 B.Tech Information Technology & Engineering student at **Parul University**
 
@@ -40,7 +42,7 @@ src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/
 
 💬 Ask me about **Python, AI/ML, React.js, Node.js, Backend Development & REST APIs.**
 
-💡 I enjoy turning **ideas into real-world applications** using AI and modern software technologies.
+💡 I enjoy turning ideas into **real-world applications** using AI and modern software technologies.
 
 📚 Always learning. Always experimenting. Always building.
 
@@ -48,7 +50,43 @@ src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/
 
 📄 **[View My Resume](YOUR_RESUME_LINK)**
 
-<br clear="right"/>
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/Patelprince6064">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pp50646464@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Patelprince6064/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-five-omega-67.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
