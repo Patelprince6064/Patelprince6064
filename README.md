@@ -56,8 +56,7 @@ class PrincePatel:
     ]
 
     mindset = "Build → Break → Learn → Improve → Ship"
----
----
+```
 # ⚡ What I Do
 
 <table>
