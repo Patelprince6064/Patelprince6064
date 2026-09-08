@@ -27,8 +27,8 @@
 ---
 
 ## 👨‍💻 About Me
-<img align="right" alt="Developer Coding" width="420"
-src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/developer.gif">
+<img align="right" alt="AI Developer Animation" width="420"
+src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/ai.gif">
 
 🎓 B.Tech Information Technology & Engineering student at **Parul University**
 
