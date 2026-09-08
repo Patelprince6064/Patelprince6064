@@ -181,33 +181,7 @@ Exploring deployment, infrastructure and production-ready systems.
 
 ---
 
-# 🔥 Currently Building My Skills
 
-```text
-Python
-  │
-  ├── NumPy
-  ├── Pandas
-  ├── Matplotlib
-  └── Scikit-learn
-          │
-          ▼
-   Machine Learning
-          │
-          ▼
-    AI Applications
-          │
-          ▼
-   Full-Stack Integration
-          │
-          ▼
-      Docker + AWS
-          │
-          ▼
-   Production Systems 🚀
-```
-
----
 
 # 🧠 Engineering Philosophy
 
