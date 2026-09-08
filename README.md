@@ -41,7 +41,7 @@
 
 <br>
 
-📄 **[View My Resume](YOUR_RESUME_LINK)**
+📄 **[View My Resume]((./prince.pdf))**
 
 <br clear="right">
 
