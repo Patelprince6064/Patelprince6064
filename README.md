@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Prince%20Patel&fontSize=70&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&color=7C3AED&lines=AI%2FML+Developer;Full-Stack+Engineer;Building+AI-Powered+Applications;Python+%7C+React+%7C+Node.js;Turning+Ideas+Into+Real+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&color=7C3AED&lines=AI%2FML+Developer;Full-Stack+Engineer;Building+AI-Powered+Applications;Python+%7C+React+%7C+Node.js;Turning+Ideas+Into+Real+Products"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
@@ -23,6 +23,32 @@
 </a>
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="AI Developer" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎓 B.Tech Information Technology & Engineering student at **Parul University**
+
+🤖 **AI/ML & Full-Stack Developer** passionate about building intelligent and practical software.
+
+🚀 Building **AI-powered applications, Machine Learning systems, and modern full-stack platforms.**
+
+🌱 Currently exploring **Machine Learning, Generative AI, AI Agents, Cloud & DevOps.**
+
+💬 Ask me about **Python, AI/ML, React.js, Node.js, Backend Development & REST APIs.**
+
+💡 I enjoy turning **ideas into real-world applications** using AI and modern software technologies.
+
+📚 Always learning. Always experimenting. Always building.
+
+📫 Reach me: **[pp50646464@gmail.com](mailto:pp50646464@gmail.com)**
+
+📄 **[View My Resume](YOUR_RESUME_LINK)**
+
+<br clear="right"/>
 
 ---
 
