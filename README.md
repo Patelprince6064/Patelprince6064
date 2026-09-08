@@ -157,29 +157,37 @@ Exploring deployment, infrastructure and production-ready systems.
 
 # 🚀 My Developer Journey
 
-```text
-                         ┌──────────────────────┐
-                         │       IDEAS 💡       │
-                         └──────────┬───────────┘
-                                    ↓
-                         ┌──────────────────────┐
-                         │    DEVELOPMENT ⚙️   │
-                         └──────────┬───────────┘
-                                    ↓
-                    ┌───────────────────────────────┐
-                    │       AI + SOFTWARE 🤖       │
-                    └──────────────┬────────────────┘
-                                   ↓
-                         ┌──────────────────────┐
-                         │    DEPLOYMENT ☁️     │
-                         └──────────┬───────────┘
-                                    ↓
-                         ┌──────────────────────┐
-                         │   REAL-WORLD IMPACT  │
-                         └──────────────────────┘
-```
+<table align="center">
+<tr>
+<td align="center">
 
-> **I don't just want to write code.
+<pre>
+┌──────────────────────┐
+│       IDEAS 💡       │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│    DEVELOPMENT ⚙️   │
+└──────────┬───────────┘
+           ↓
+┌────────────────────────────┐
+│      AI + SOFTWARE 🤖     │
+└─────────────┬──────────────┘
+              ↓
+┌──────────────────────┐
+│    DEPLOYMENT ☁️     │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│  REAL-WORLD IMPACT   │
+└──────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
+
+> **I don't just want to write code.  
 > I want to build software that solves real problems.**
 
 ---
