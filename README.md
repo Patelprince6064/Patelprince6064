@@ -1,52 +1,301 @@
 <div align="center">
 
-# Hi 👋, I'm Prince Patel
+# 👋 Hey, I'm **Prince Patel**
 
-### AI/ML & Full-Stack Developer | Python | React.js | Node.js
+### 🤖 AI/ML Developer • Full-Stack Engineer • Problem Solver
 
-### 🚀 Building real-world applications with AI, data, and modern web technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&center=true&vCenter=true&width=850&color=2563EB&lines=Building+AI-Powered+Applications;Machine+Learning+%7C+Python+%7C+Data;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products;Learning+Today.+Building+Tomorrow." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=2563EB&lines=AI%2FML+Developer;Full-Stack+Developer;Python+%7C+Machine+Learning;React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications;Turning+Ideas+Into+Software"/>
+<br><br>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 `whoami`
 
-🎓 B.Tech Information Technology & Engineering Student at **Parul University**
+```python
+class PrincePatel:
 
-💻 Aspiring **AI/ML & Full-Stack Developer** focused on building practical and scalable applications.
+    role = "AI/ML & Full-Stack Developer"
+    education = "B.Tech IT & Engineering @ Parul University"
 
-🤖 Working with **Python, Pandas, NumPy, and Scikit-learn** to explore Machine Learning and real-world datasets.
+    languages = [
+        "Python",
+        "JavaScript",
+        "C++"
+    ]
 
-🌐 Building full-stack applications using **React.js, Node.js, Express.js, and MongoDB**.
+    currently_building = [
+        "AI-powered applications",
+        "Machine Learning systems",
+        "Full-stack web platforms"
+    ]
 
-⚡ Interested in combining **AI/ML with modern web technologies** to create useful software.
+    currently_learning = [
+        "Machine Learning",
+        "Generative AI",
+        "System Design",
+        "Cloud & DevOps",
+        "Data Structures & Algorithms"
+    ]
 
-🌱 Currently focusing on:
-
-- Machine Learning & Data Science
-- AI-Powered Applications
-- Advanced Backend Development
-- Docker & Cloud Deployment
-- Data Structures & Algorithms
-- System Design
-
-🎯 **Open to Software Engineering, AI/ML, and Full-Stack opportunities.**
+    mindset = "Build → Break → Learn → Improve → Ship"
+```
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ What I Do
 
-<p align="center">
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## 🤖 AI / ML
+
+Building intelligent systems using data, machine learning and AI.
+
+`Python`
+`Pandas`
+`NumPy`
+`Scikit-learn`
+
+</td>
+
+<td width="33%" align="center">
+
+## 🌐 Full Stack
+
+Creating modern, scalable web applications from frontend to backend.
+
+`React.js`
+`Node.js`
+`Express.js`
+`MongoDB`
+
+</td>
+
+<td width="33%" align="center">
+
+## ☁️ Engineering
+
+Exploring deployment, infrastructure and production-ready systems.
+
+`Docker`
+`AWS`
+`Git`
+`REST APIs`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 My Developer Journey
+
+```text
+                         ┌──────────────────────┐
+                         │       IDEAS 💡       │
+                         └──────────┬───────────┘
+                                    ↓
+                         ┌──────────────────────┐
+                         │    DEVELOPMENT ⚙️   │
+                         └──────────┬───────────┘
+                                    ↓
+                    ┌───────────────────────────────┐
+                    │       AI + SOFTWARE 🤖       │
+                    └──────────────┬────────────────┘
+                                   ↓
+                         ┌──────────────────────┐
+                         │    DEPLOYMENT ☁️     │
+                         └──────────┬───────────┘
+                                    ↓
+                         ┌──────────────────────┐
+                         │   REAL-WORLD IMPACT  │
+                         └──────────────────────┘
+```
+
+> **I don't just want to write code.
+> I want to build software that solves real problems.**
+
+---
+
+# 🛠️ Tech Universe
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark"/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
+### 🤖 AI / Data
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel&theme=dark"/>
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter&theme=dark"/>
+
+</div>
+
+---
+
+# 🧩 What I'm Exploring
+
+<div align="center">
+
+|       🧠 AI      |    📊 Data    |  🌐 Engineering | ☁️ Infrastructure |
+| :--------------: | :-----------: | :-------------: | :---------------: |
+| Machine Learning | Data Analysis |      React      |       Docker      |
+|   Generative AI  |     Pandas    |     Node.js     |        AWS        |
+|     AI Agents    |     NumPy     |    REST APIs    |     Deployment    |
+|  AI Applications |  Scikit-learn | Backend Systems |       Cloud       |
+
+</div>
+
+---
+
+# 🔥 Currently Building My Skills
+
+```text
+Python
+  │
+  ├── NumPy
+  ├── Pandas
+  ├── Matplotlib
+  └── Scikit-learn
+          │
+          ▼
+   Machine Learning
+          │
+          ▼
+    AI Applications
+          │
+          ▼
+   Full-Stack Integration
+          │
+          ▼
+      Docker + AWS
+          │
+          ▼
+   Production Systems 🚀
+```
+
+---
+
+# 🧠 Engineering Philosophy
+
+<div align="center">
+
+### 💡 Think
+
+**Understand the problem before writing the solution.**
+
+↓
+
+### 🛠️ Build
+
+**Turn ideas into working software.**
+
+↓
+
+### 🧪 Experiment
+
+**Test. Break. Debug. Improve.**
+
+↓
+
+### 🚀 Ship
+
+**Move from localhost to production.**
+
+↓
+
+### 📈 Grow
+
+**Every project is another step forward.**
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Patelprince6064&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Patelprince6064&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patelprince6064&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Patelprince6064/Patelprince6064/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
+```text
+[████████████████░░░░] 80%
+
+✓ Strengthen Full-Stack Development
+✓ Build Real-World Applications
+✓ Learn Machine Learning
+✓ Practice Data Structures & Algorithms
+→ Master AI-Powered Applications
+→ Improve System Design
+→ Deploy Production-Ready Systems
+→ Become a stronger Software Engineer
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
 
 <a href="mailto:pp50646464@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
@@ -65,260 +314,18 @@
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="250">
-
-### 🎨 Frontend
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/>
-
-</td>
-
-<td align="center" width="250">
-
-### ⚙️ Backend
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🗄️ Database
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-</td>
-
-<td align="center">
-
-### ☁️ Cloud & DevOps
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🤖 AI / Machine Learning
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
-</td>
-
-<td align="center">
-
-### 🛠️ Tools
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter&theme=dark"/>
-
-</td>
-
-</tr>
-
-</table>
-
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🤖 AI Exam Preparation Platform
-
-AI-powered learning platform designed to make exam preparation more personalized and interactive.
-
-### Features
-
-- AI-generated quizzes
-- AI-generated notes
-- Intelligent summaries
-- Personalized study recommendations
-- Interactive learning experience
-- User authentication
-
-### Tech Stack
-
-`React.js` `Node.js` `Express.js` `MongoDB` `AI`
-
-### 🔗 Links
-
-**Live Demo**  
-https://ai-exam-prep-psi.vercel.app/
-
-**Source Code**  
-https://github.com/Patelprince6064/AI-exam-prep
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💻 Laptop Price Prediction
-
-Machine Learning application that predicts laptop prices based on hardware specifications and relevant features.
-
-### Features
-
-- Data preprocessing
-- Exploratory data analysis
-- Feature engineering
-- Regression algorithms
-- Model evaluation
-- Price prediction
-
-### Tech Stack
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
-### 🔗 Links
-
-**Live Demo**  
-Coming Soon
-
-**Source Code**  
-https://github.com/Patelprince6064/LAPTOP_PRICE_PREDICTION_REPOSITORY
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏋️ Gym CRM
-
-Full-stack gym management platform designed to simplify member management and daily gym operations.
-
-### Features
-
-- Authentication
-- Member management
-- Attendance tracking
-- Payment management
-- Admin dashboard
-- Gym administration
-
-### Tech Stack
-
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-### 🔗 Links
-
-**Live Demo**  
-https://smartgymcrm.vercel.app/
-
-**Source Code**  
-https://github.com/Patelprince6064/GYM-CRM
-
-</td>
-
-<td width="50%" valign="top">
-
-## ☕ Amrita Coffee House
-
-Modern and responsive web application focused on clean UI, product presentation, and customer experience.
-
-### Features
-
-- Responsive design
-- Modern UI
-- Product showcase
-- Interactive sections
-- Mobile-friendly experience
-
-### Tech Stack
-
-`React.js` `Tailwind CSS` `Node.js`
-
-### 🔗 Links
-
-**Live Demo**  
-https://amrita-coffee-house-pink.vercel.app/
-
-**Source Code**  
-https://github.com/Patelprince6064/Amrita-Coffee-House
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 Current Focus
-
 <div align="center">
 
-| 🤖 AI / ML | 🌐 Full Stack | ☁️ Cloud & DevOps | 💻 DSA |
-|:---:|:---:|:---:|:---:|
-| Machine Learning | React.js | AWS | LeetCode |
-| Python | Node.js | Docker | Algorithms |
-| Scikit-learn | Express.js | Deployment | Problem Solving |
-| AI Applications | MongoDB | Cloud Fundamentals | Interview Preparation |
+### 🚀 Building today. Learning every day. Shipping tomorrow.
+
+**"Code is not just about solving problems — it's about creating possibilities."**
+
+<br>
+
+⭐ **If you find something interesting here, feel free to explore!**
 
 </div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-```text
-Machine Learning
-       ↓
-AI-Powered Applications
-       ↓
-Advanced Backend Development
-       ↓
-Docker & Cloud Deployment
-       ↓
-Data Structures & Algorithms
-       ↓
-System Design
