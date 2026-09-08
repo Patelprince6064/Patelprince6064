@@ -17,35 +17,27 @@
 
 <td width="60%" valign="top">
 
-🎓 B.Tech Information Technology & Engineering student at **Parul University**
+🎓 B.Tech IT & Engineering student at **Parul University**
 
 <br>
 
-🤖 **AI/ML & Full-Stack Developer** passionate about building intelligent and practical software.
+🤖 **AI/ML & Full-Stack Developer** building intelligent software.
 
 <br>
 
-🚀 Building **AI-powered applications, Machine Learning systems, and modern full-stack platforms.**
+🚀 Building **AI-powered apps, ML systems & full-stack platforms.**
 
 <br>
 
-🌱 Currently exploring **Machine Learning, Generative AI, AI Agents, Cloud & DevOps.**
+🌱 Exploring **Generative AI, AI Agents, Cloud & DevOps.**
 
 <br>
 
-💬 Ask me about **Python, AI/ML, React.js, Node.js, Backend Development & REST APIs.**
+💬 Ask me about **Python, AI/ML, React, Node.js & REST APIs.**
 
 <br>
 
-💡 I enjoy turning ideas into **real-world applications** using AI and modern software technologies.
-
-<br>
-
-📚 **Always learning. Always experimenting. Always building.**
-
-<br>
-
-📫 Reach me: **[pp50646464@gmail.com](mailto:pp50646464@gmail.com)**
+📫 **[pp50646464@gmail.com](mailto:pp50646464@gmail.com)**
 
 <br>
 
@@ -56,8 +48,8 @@
 <td width="40%" align="center" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-     width="420"
-     alt="Developer Coding Animation"/>
+width="400"
+alt="Developer Animation"/>
 
 </td>
 
