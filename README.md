@@ -243,52 +243,7 @@ Python
 
 </div>
 
----
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Patelprince6064&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Patelprince6064&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patelprince6064&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Patelprince6064/Patelprince6064/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🎯 2026 Mission
-
-```text
-[████████████████░░░░] 80%
-
-✓ Strengthen Full-Stack Development
-✓ Build Real-World Applications
-✓ Learn Machine Learning
-✓ Practice Data Structures & Algorithms
-→ Master AI-Powered Applications
-→ Improve System Design
-→ Deploy Production-Ready Systems
-→ Become a stronger Software Engineer
-```
-
----
 
 # 🌐 Let's Connect
 
