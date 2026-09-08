@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
+<img align="right"
+     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+     width="380"
+     alt="Developer Animation"/>
 
-<td width="60%" valign="top">
-
-🎓 B.Tech IT & Engineering student at **Parul University**
+🎓 **B.Tech IT & Engineering** student at **Parul University**
 
 <br>
 
@@ -43,18 +43,7 @@
 
 📄 **[View My Resume](YOUR_RESUME_LINK)**
 
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-width="400"
-alt="Developer Animation"/>
-
-</td>
-
-</tr>
-</table>
+<br clear="right">
 
 ---
 
