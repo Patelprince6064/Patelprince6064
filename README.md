@@ -1,14 +1,26 @@
 <div align="center">
 
-# 👋 Hey, I'm **Prince Patel**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Prince%20Patel&fontSize=70&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-### 🤖 AI/ML Developer • Full-Stack Engineer • Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&color=7C3AED&lines=AI%2FML+Developer;Full-Stack+Engineer;Building+AI-Powered+Applications;Python+%7C+React+%7C+Node.js;Turning+Ideas+Into+Real+Products" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&center=true&vCenter=true&width=850&color=2563EB&lines=Building+AI-Powered+Applications;Machine+Learning+%7C+Python+%7C+Data;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products;Learning+Today.+Building+Tomorrow." />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
+<a href="https://github.com/Patelprince6064">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-five-omega-67.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
@@ -37,14 +49,13 @@ class PrincePatel:
     currently_learning = [
         "Machine Learning",
         "Generative AI",
+        "AI Agents",
         "System Design",
         "Cloud & DevOps",
         "Data Structures & Algorithms"
     ]
 
     mindset = "Build → Break → Learn → Improve → Ship"
-```
-
 ---
 
 # ⚡ What I Do
