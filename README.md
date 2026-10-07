@@ -268,38 +268,42 @@ Git · GitHub · Docker · Jupyter · Vercel
 <h2>Let's build something useful.</h2>
 
 <p>
-I'm open to internships, full-time opportunities, and collaborations
-in AI/ML and full-stack development.
+I'm open to internships, full-time opportunities, freelance work,
+and collaborations in AI/ML and full-stack development.
 </p>
 
 <p>
-<strong>React · Python · FastAPI · Machine Learning</strong>
+<strong>AI Agents · Machine Learning · Python · React · FastAPI</strong>
 </p>
 
 </td>
 
 <td width="35%" valign="middle" align="center">
 
-<a href="https://github.com/patelprince6064">
-<strong>GitHub</strong>
+<p>
+<a href="https://github.com/Patelprince6064">
+<strong>GitHub ↗</strong>
 </a>
+</p>
 
-<br />
-
+<p>
 <a href="https://prince-builds.vercel.app/">
-<strong>Portfolio</strong>
+<strong>Portfolio ↗</strong>
 </a>
+</p>
 
-<br />
-
+<p>
 <a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
-<strong>LinkedIn</strong>
+<strong>LinkedIn ↗</strong>
 </a>
+</p>
 
 </td>
 
 </tr>
 </table>
+
+<hr />
 
 <p align="center">
 <sub>Patel Prince · AI/ML & Full-Stack Developer</sub>
