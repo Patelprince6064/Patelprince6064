@@ -257,9 +257,45 @@ Git · GitHub · Docker · Jupyter · Vercel
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/patelprince6064">GitHub</a><br /><a href="https://prince-builds.vercel.app/">Website</a></td>
+
+<td width="65%" valign="middle">
+
+<h2>Let's build something useful.</h2>
+
+<p>
+I'm open to internships, full-time opportunities, and collaborations
+in AI/ML and full-stack development.
+</p>
+
+<p>
+<strong>React · Python · FastAPI · Machine Learning</strong>
+</p>
+
+</td>
+
+<td width="35%" valign="middle" align="center">
+
+<a href="https://github.com/patelprince6064">
+<strong>GitHub</strong>
+</a>
+
+<br />
+
+<a href="https://prince-builds.vercel.app/">
+<strong>Portfolio</strong>
+</a>
+
+<br />
+
+<a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
+<strong>LinkedIn</strong>
+</a>
+
+</td>
+
 </tr>
 </table>
 
-<p align="center"><sub>Patel Prince · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+<sub>Patel Prince · AI/ML & Full-Stack Developer</sub>
+</p>
