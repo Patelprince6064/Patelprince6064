@@ -277,41 +277,23 @@ and collaborations in AI/ML and full-stack development.
 </p>
 
 </td>
-
 <td width="35%" valign="middle" align="center">
 
-<p>
 <a href="https://github.com/Patelprince6064">
-<img src="https://cdn.simpleicons.org/github/ffffff"
-     width="22"
-     height="22"
-     alt="GitHub"
-     valign="middle" />
-&nbsp; <strong>GitHub</strong>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
-</p>
 
-<p>
+<br /><br />
+
 <a href="https://prince-builds.vercel.app/">
-<img src="https://cdn.simpleicons.org/googlechrome/ffffff"
-     width="22"
-     height="22"
-     alt="Portfolio"
-     valign="middle" />
-&nbsp; <strong>Portfolio</strong>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-</p>
 
-<p>
+<br /><br />
+
 <a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-     width="22"
-     height="22"
-     alt="LinkedIn"
-     valign="middle" />
-&nbsp; <strong>LinkedIn</strong>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-</p>
 
 </td>
 
