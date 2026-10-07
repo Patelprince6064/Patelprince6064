@@ -84,15 +84,16 @@ FastAPI · React · Vite · Tailwind CSS · PostgreSQL · RAG · AI Agents
 
 <td width="50%" valign="top">
 
-<h3>NOVA — AI Agent Platform</h3>
+<h3>NOVA — AI Voice Agent</h3>
 
 <p>
-Autonomous AI assistant designed to understand user requests, plan tasks,
-use tools, and execute multi-step workflows with intelligent responses.
+Autonomous voice-enabled AI assistant designed to understand natural language
+commands, plan tasks, use tools, and execute multi-step workflows with
+intelligent responses.
 </p>
 
 <p>
-Python · FastAPI · React · Vite · AI Agents · Tool Calling · Automation
+Python · FastAPI · React · Vite · Voice AI · AI Agents · Tool Calling · Automation
 </p>
 
 <p>
