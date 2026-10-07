@@ -13,7 +13,7 @@
 <td width="36%" valign="middle" align="center">
 
 <img
-  src="vidssave.com Vj Loop 04 720P.mp4"
+  src="vidssave.com Vj Loop 04 720P.gif"
   width="180"
   alt="AI and Full-Stack Developer"
 />
