@@ -103,30 +103,20 @@ Python · FastAPI · React · Vite · AI Agents · Tool Calling · Automation
 
 <td width="50%" valign="top">
 
-<h3>
-<a href="https://github.com/Patelprince6064/Amrita-Coffee-House">
-Amrita Coffee House
-</a>
-</h3>
+<td width="50%" valign="top">
+
+<h3>AI Exam Prep</h3>
 
 <p>
-Modern full-stack coffee house web application with a responsive
-interface, menu management, and backend integration.
+AI-powered exam preparation platform that generates study materials,
+summaries, quizzes, and personalized learning assistance for students.
 </p>
 
 <p>
-<sub>React · Vite · Tailwind CSS · Node.js · Express · MongoDB</sub>
+React · Node.js · Express · MongoDB · OpenAI API
 </p>
 
 <p>
-<a href="https://amrita-coffee-house-pink.vercel.app/">
-Live Demo →
-</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Patelprince6064/Amrita-Coffee-House">
-GitHub →
-</a>
-</p>
 
 </td>
 
