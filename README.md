@@ -108,8 +108,8 @@ Python · FastAPI · React · Vite · AI Agents · Tool Calling · Automation
 <h3>AI Exam Prep</h3>
 
 <p>
-AI-powered exam preparation platform that generates study materials,
-summaries, quizzes, and personalized learning assistance for students.
+AI-powered learning platform that uses LLMs to generate study materials,
+summaries, quizzes, and interactive exam-preparation assistance.
 </p>
 
 <p>
