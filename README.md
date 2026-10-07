@@ -60,58 +60,39 @@
 
 <td width="50%" valign="top">
 
-<h3>
-<a href="https://github.com/Patelprince6064/AI-exam-prep">
-AI Exam Prep
-</a>
-</h3>
+<h3>AEVRIX — Autonomous AI Agent Platform</h3>
 
 <p>
-AI-powered exam preparation platform that generates study materials,
-summaries, quizzes, and smart learning assistance for students.
+Full-stack autonomous AI agent platform with planning, tool calling,
+persistent memory, RAG, workflows, multi-agent orchestration,
+document intelligence, and browser automation.
 </p>
 
 <p>
-<sub>React · Node.js · Express · MongoDB · OpenAI</sub>
+FastAPI · React · Vite · Tailwind CSS · PostgreSQL · RAG · AI Agents
 </p>
 
 <p>
-<a href="https://ai-exam-prep-psi.vercel.app/">
-Live Demo →
-</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Patelprince6064/AI-exam-prep">
-GitHub →
-</a>
+<strong>Private Project</strong>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>
-<a href="https://github.com/Patelprince6064/GYM-CRM">
-GYM CRM
-</a>
-</h3>
+<h3>NOVA — AI Agent Platform</h3>
 
 <p>
-Full-stack gym management platform for managing members,
-subscriptions, payments, and daily gym operations.
+Autonomous AI assistant designed to understand user requests, plan tasks,
+use tools, and execute multi-step workflows with intelligent responses.
 </p>
 
 <p>
-<sub>React · Node.js · TypeScript · SQLite</sub>
+Python · FastAPI · React · Vite · AI Agents · Tool Calling · Automation
 </p>
 
 <p>
-<a href="https://gym-crm-p5nh.vercel.app/">
-Live Demo →
-</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Patelprince6064/GYM-CRM">
-GitHub →
-</a>
+<strong>Private Project</strong>
 </p>
 
 </td>
