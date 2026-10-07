@@ -13,7 +13,7 @@
 <td width="36%" valign="middle" align="center">
 
 <img
-  src="C:\Users\Prince\Downloads\videoframe_3202.png"
+  src="videoframe_3202.png"
   width="180"
   alt="AI and Full-Stack Developer"
 />
