@@ -48,30 +48,127 @@
 </picture>
 </p>
 
-<h2>Selected work</h2>
+<h2>Selected Work</h2>
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&repos=patelprince6064%2FAI-exam-prep%2Cpatelprince6064%2FDSA-Sheet%2Cpatelprince6064%2FAmrita-Coffee-House%2Cpatelprince6064%2FGYM-CRM&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&repos=patelprince6064%2FAI-exam-prep%2Cpatelprince6064%2FDSA-Sheet%2Cpatelprince6064%2FAmrita-Coffee-House%2Cpatelprince6064%2FGYM-CRM&v=recruiter-projects-1&mode=dark" width="100%" alt="Patel Prince selected projects" />
-</picture>
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/Patelprince6064/AI-exam-prep">
+AI Exam Prep
+</a>
+</h3>
+
+<p>
+AI-powered exam preparation platform that generates study materials,
+summaries, quizzes, and smart learning assistance for students.
+</p>
+
+<p>
+<sub>React · Node.js · Express · MongoDB · OpenAI</sub>
+</p>
+
+<p>
+<a href="https://ai-exam-prep-psi.vercel.app/">
+Live Demo →
+</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Patelprince6064/AI-exam-prep">
+GitHub →
+</a>
+</p>
+
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Patelprince6064/AI-exam-prep">AI-exam-prep</a></h3>
-<p>AI-powered exam preparation platform that generates study materials, summaries, quizzes, and smart learning assistance for students.</p>
-<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Patelprince6064/AI-exam-prep">Read the repository →</a></p>
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/Patelprince6064/GYM-CRM">
+GYM CRM
+</a>
+</h3>
+
+<p>
+Full-stack gym management platform for managing members,
+subscriptions, payments, and daily gym operations.
+</p>
+
+<p>
+<sub>React · Node.js · TypeScript · SQLite</sub>
+</p>
+
+<p>
+<a href="https://gym-crm-p5nh.vercel.app/">
+Live Demo →
+</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Patelprince6064/GYM-CRM">
+GitHub →
+</a>
+</p>
+
 </td>
+
 </tr>
-</table>
 
-<table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Patelprince6064/DSA-Sheet">DSA-Sheet</a></h3><p>A full-stack DSA (Data Structures &amp; Algorithms) progress tracker built with MongoDB, Express, React, and Node.js. Track your progress across 160+ ques</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Patelprince6064/Amrita-Coffee-House">Amrita-Coffee-House</a></h3><p>A modern full-stack coffee house web application built with React, Vite, Tailwind CSS, Node.js, Express, and MongoDB. Features responsive UI, menu man</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Patelprince6064/GYM-CRM">GYM-CRM</a></h3><p>A premium, full-stack Gym Customer Relationship Management (CRM) platform built with React, Node.js, and SQLite. Designed with a modern dark theme and</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/Patelprince6064/Amrita-Coffee-House">
+Amrita Coffee House
+</a>
+</h3>
+
+<p>
+Modern full-stack coffee house web application with a responsive
+interface, menu management, and backend integration.
+</p>
+
+<p>
+<sub>React · Vite · Tailwind CSS · Node.js · Express · MongoDB</sub>
+</p>
+
+<p>
+<a href="https://amrita-coffee-house-pink.vercel.app/">
+Live Demo →
+</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Patelprince6064/Amrita-Coffee-House">
+GitHub →
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/Patelprince6064/DSA-Sheet">
+DSA Sheet
+</a>
+</h3>
+
+<p>
+Full-stack DSA progress tracker for solving and tracking
+160+ Data Structures and Algorithms problems.
+</p>
+
+<p>
+<sub>React · Node.js · Express · MongoDB</sub>
+</p>
+
+<p>
+<a href="https://github.com/Patelprince6064/DSA-Sheet">
+GitHub →
+</a>
+</p>
+
+</td>
+
 </tr>
 </table>
 
