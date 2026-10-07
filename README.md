@@ -20,11 +20,29 @@
 
 <h2>What teams can evaluate quickly</h2>
 
+<h2>GitHub at a Glance</h2>
+
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · JavaScript · TypeScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>15 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>431 contributions · 77 active days</p></td>
+<td width="25%" align="center">
+<strong>15</strong><br>
+<sub>Repositories</sub>
+</td>
+
+<td width="25%" align="center">
+<strong>431</strong><br>
+<sub>Contributions</sub>
+</td>
+
+<td width="25%" align="center">
+<strong>3</strong><br>
+<sub>Followers</sub>
+</td>
+
+<td width="25%" align="center">
+<strong>0</strong><br>
+<sub>Stars</sub>
+</td>
 </tr>
 </table>
 
