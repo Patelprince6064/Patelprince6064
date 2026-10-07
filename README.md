@@ -190,15 +190,75 @@ GitHub →
 </tr>
 </table>
 
-<h2>Technical toolkit</h2>
+<<h2>Technical Toolkit</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Patel Prince technology stack" />
-</picture>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<h3>Languages</h3>
+
+<p>
+Python · JavaScript · TypeScript · C++ · SQL
 </p>
 
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Frontend</h3>
+
+<p>
+React.js · Vite · Tailwind CSS · HTML · CSS
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Backend</h3>
+
+<p>
+FastAPI · Node.js · Express.js · REST APIs
+</p>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>AI / ML</h3>
+
+<p>
+Machine Learning · Scikit-learn · Pandas · NumPy
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Databases</h3>
+
+<p>
+MongoDB · MySQL · SQLite · PostgreSQL
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Tools</h3>
+
+<p>
+Git · GitHub · Docker · Jupyter · Vercel
+</p>
+
+</td>
+
+</tr>
+</table>
 <table width="100%">
 <tr>
 <td width="20%" align="center"><strong>Python</strong><br /><sub>54% of public code</sub></td>
