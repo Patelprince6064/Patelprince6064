@@ -12,7 +12,9 @@
 <a href="https://github.com/Patelprince6064">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
- &nbsp;·&nbsp; <a href="https://prince-builds.vercel.app/">Website</a></p>
+ &nbsp;·&nbsp;<a href="https://prince-builds.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 
