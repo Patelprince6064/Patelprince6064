@@ -52,56 +52,10 @@
 
 <p><sub>AI/ML &amp; Full-Stack Developer | Python | Machine Learning | React.js | FastAPI | Building Real-World AI Applications</sub></p>
 
-
 <h2>Selected Work</h2>
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>AEVRIX — Autonomous AI Agent Platform</h3>
-
-<p>
-Full-stack autonomous AI agent platform with planning, tool calling,
-persistent memory, RAG, workflows, multi-agent orchestration,
-document intelligence, and browser automation.
-</p>
-
-<p>
-FastAPI · React · Vite · Tailwind CSS · PostgreSQL · RAG · AI Agents
-</p>
-
-<p>
-<strong>Private Project</strong>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>NOVA — AI Agent Platform</h3>
-
-<p>
-Autonomous AI assistant designed to understand user requests, plan tasks,
-use tools, and execute multi-step workflows with intelligent responses.
-</p>
-
-<p>
-Python · FastAPI · React · Vite · AI Agents · Tool Calling · Automation
-</p>
-
-<p>
-<strong>Private Project</strong>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
 
 <td width="50%" valign="top">
 
@@ -124,12 +78,6 @@ React · Node.js · Express · MongoDB · OpenAI API
 
 </td>
 
-<h3>
-<a href="https://github.com/Patelprince6064/DSA-Sheet">
-DSA Sheet
-</a>
-</h3>
-
 <td width="50%" valign="top">
 
 <h3>GYM CRM</h3>
@@ -150,6 +98,52 @@ React · Node.js · TypeScript · SQLite
 </p>
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Amrita Coffee House</h3>
+
+<p>
+Modern full-stack coffee house web application with a responsive
+interface, menu management, and backend integration.
+</p>
+
+<p>
+React · Vite · Tailwind CSS · Node.js · Express · MongoDB
+</p>
+
+<p>
+<a href="https://amrita-coffee-house-pink.vercel.app/">Live Demo →</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Patelprince6064/Amrita-Coffee-House">GitHub →</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>DSA Sheet</h3>
+
+<p>
+Full-stack DSA progress tracker for solving and tracking
+160+ Data Structures and Algorithms problems.
+</p>
+
+<p>
+React · Node.js · Express · MongoDB
+</p>
+
+<p>
+<a href="https://github.com/Patelprince6064/DSA-Sheet">GitHub →</a>
+</p>
+
+</td>
+
+</tr>
 </table>
 
 <<h2>Technical Toolkit</h2>
