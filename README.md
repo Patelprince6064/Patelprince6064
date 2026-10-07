@@ -130,24 +130,26 @@ DSA Sheet
 </a>
 </h3>
 
+<td width="50%" valign="top">
+
+<h3>GYM CRM</h3>
+
 <p>
-Full-stack DSA progress tracker for solving and tracking
-160+ Data Structures and Algorithms problems.
+Full-stack gym management platform for managing members,
+subscriptions, payments, and daily gym operations.
 </p>
 
 <p>
-<sub>React · Node.js · Express · MongoDB</sub>
+React · Node.js · TypeScript · SQLite
 </p>
 
 <p>
-<a href="https://github.com/Patelprince6064/DSA-Sheet">
-GitHub →
-</a>
+<a href="https://gym-crm-p5nh.vercel.app/">Live Demo →</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Patelprince6064/GYM-CRM">GitHub →</a>
 </p>
 
 </td>
-
-</tr>
 </table>
 
 <<h2>Technical Toolkit</h2>
