@@ -13,7 +13,7 @@
 <td width="36%" valign="middle" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Patelprince6064/README/main/ai-developer-animation.gif"
+  src="C:\Users\Prince\Downloads\videoframe_3202.png"
   width="180"
   alt="AI and Full-Stack Developer"
 />
