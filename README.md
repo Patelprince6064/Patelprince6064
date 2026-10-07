@@ -1,327 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=200&section=header&text=Prince%20Patel&fontSize=75&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Patelprince6064&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right"
-     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-     width="380"
-     alt="Developer Animation"/>
-
-🎓 **B.Tech IT & Engineering** student at **Parul University**
-
-<br>
-
-🤖 **AI/ML & Full-Stack Developer** building intelligent software.
-
-<br>
-
-🚀 Building **AI-powered apps, ML systems & full-stack platforms.**
-
-<br>
-
-🌱 Exploring **Generative AI, AI Agents, Cloud & DevOps.**
-
-<br>
-
-💬 Ask me about **Python, AI/ML, React, Node.js & REST APIs.**
-
-<br>
-
-📫 **[pp50646464@gmail.com](mailto:pp50646464@gmail.com)**
-
-<br>
-
-📄 **[View My Resume](./prince.pdf)**
-
-<br clear="right">
-
----
-
-## 🌐 Connect with Me
-
-<div align="left">
-
-<a href="https://github.com/Patelprince6064">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pp50646464@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Patelprince6064/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-five-omega-67.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🧠 `whoami`
-
-```python
-class PrincePatel:
-
-    role = "AI/ML & Full-Stack Developer"
-    education = "B.Tech IT & Engineering @ Parul University"
-
-    languages = [
-        "Python",
-        "JavaScript",
-        "C++"
-    ]
-
-    currently_building = [
-        "AI-powered applications",
-        "Machine Learning systems",
-        "Full-stack web platforms"
-    ]
-
-    currently_learning = [
-        "Machine Learning",
-        "Generative AI",
-        "AI Agents",
-        "System Design",
-        "Cloud & DevOps",
-        "Data Structures & Algorithms"
-    ]
-
-    mindset = "Build → Break → Learn → Improve → Ship"
-```
-# ⚡ What I Do
-
-<table>
+<table width="100%">
 <tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · patelprince6064</sub></p>
+<h1>Patel Prince</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>AI/ML &amp; Full-Stack Developer | Python | Machine Learning | React.js | FastAPI | Building Real-World AI Applications</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<td width="33%" align="center">
-
-## 🤖 AI / ML
-
-Building intelligent systems using data, machine learning and AI.
-
-`Python`
-`Pandas`
-`NumPy`
-`Scikit-learn`
-
+<p><a href="https://github.com/patelprince6064">GitHub</a> &nbsp;·&nbsp; <a href="https://prince-builds.vercel.app/">Website</a></p>
 </td>
-
-<td width="33%" align="center">
-
-## 🌐 Full Stack
-
-Creating modern, scalable web applications from frontend to backend.
-
-`React.js`
-`Node.js`
-`Express.js`
-`MongoDB`
-
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/181195334?u=f7c66e0fe653b8bf18a194508e4269d61a040556&amp;v=4" width="180" alt="Patel Prince GitHub avatar" />
 </td>
+</tr>
+</table>
+</div>
 
-<td width="33%" align="center">
+<h2>What teams can evaluate quickly</h2>
 
-## ☁️ Engineering
-
-Exploring deployment, infrastructure and production-ready systems.
-
-`Docker`
-`AWS`
-`Git`
-`REST APIs`
-
-</td>
-
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · JavaScript · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>15 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>431 contributions · 77 active days</p></td>
 </tr>
 </table>
 
----
+<p><sub>AI/ML &amp; Full-Stack Developer | Python | Machine Learning | React.js | FastAPI | Building Real-World AI Applications</sub></p>
 
-# 🚀 My Developer Journey
+<h2>Proof at a glance</h2>
 
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center">
+<td width="25%" align="center"><strong>15</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>431</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<pre>
-┌──────────────────────┐
-│       IDEAS 💡       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│    DEVELOPMENT ⚙️   │
-└──────────┬───────────┘
-           ↓
-┌────────────────────────────┐
-│      AI + SOFTWARE 🤖     │
-└─────────────┬──────────────┘
-              ↓
-┌──────────────────────┐
-│    DEPLOYMENT ☁️     │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  REAL-WORLD IMPACT   │
-└──────────────────────┘
-</pre>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Patel Prince GitHub proof metrics" />
+</picture>
+</p>
 
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&repos=patelprince6064%2FAI-exam-prep%2Cpatelprince6064%2FDSA-Sheet%2Cpatelprince6064%2FAmrita-Coffee-House%2Cpatelprince6064%2FGYM-CRM&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&repos=patelprince6064%2FAI-exam-prep%2Cpatelprince6064%2FDSA-Sheet%2Cpatelprince6064%2FAmrita-Coffee-House%2Cpatelprince6064%2FGYM-CRM&v=recruiter-projects-1&mode=dark" width="100%" alt="Patel Prince selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Patelprince6064/AI-exam-prep">AI-exam-prep</a></h3>
+<p>AI-powered exam preparation platform that generates study materials, summaries, quizzes, and smart learning assistance for students.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Patelprince6064/AI-exam-prep">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-> **I don't just want to write code.  
-> I want to build software that solves real problems.**
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Patelprince6064/DSA-Sheet">DSA-Sheet</a></h3><p>A full-stack DSA (Data Structures &amp; Algorithms) progress tracker built with MongoDB, Express, React, and Node.js. Track your progress across 160+ ques</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Patelprince6064/Amrita-Coffee-House">Amrita-Coffee-House</a></h3><p>A modern full-stack coffee house web application built with React, Vite, Tailwind CSS, Node.js, Express, and MongoDB. Features responsive UI, menu man</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Patelprince6064/GYM-CRM">GYM-CRM</a></h3><p>A premium, full-stack Gym Customer Relationship Management (CRM) platform built with React, Node.js, and SQLite. Designed with a modern dark theme and</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Technical toolkit</h2>
 
-# 🛠️ Tech Universe
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Patel Prince technology stack" />
+</picture>
+</p>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>54% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
-### 💻 Languages
+<h2>Consistency signal</h2>
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Patel Prince contribution activity" />
+</picture>
+</p>
 
-### 🎨 Frontend
+<hr />
 
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/patelprince6064">GitHub</a><br /><a href="https://prince-builds.vercel.app/">Website</a></td>
+</tr>
+</table>
 
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-### 🤖 AI / Data
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel&theme=dark"/>
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter&theme=dark"/>
-
-</div>
-
----
-
-# 🧩 What I'm Exploring
-
-<div align="center">
-
-|       🧠 AI      |    📊 Data    |  🌐 Engineering | ☁️ Infrastructure |
-| :--------------: | :-----------: | :-------------: | :---------------: |
-| Machine Learning | Data Analysis |      React      |       Docker      |
-|   Generative AI  |     Pandas    |     Node.js     |        AWS        |
-|     AI Agents    |     NumPy     |    REST APIs    |     Deployment    |
-|  AI Applications |  Scikit-learn | Backend Systems |       Cloud       |
-
-</div>
-
----
-
-
-
-# 🧠 Engineering Philosophy
-
-<div align="center">
-
-### 💡 Think
-
-**Understand the problem before writing the solution.**
-
-↓
-
-### 🛠️ Build
-
-**Turn ideas into working software.**
-
-↓
-
-### 🧪 Experiment
-
-**Test. Break. Debug. Improve.**
-
-↓
-
-### 🚀 Ship
-
-**Move from localhost to production.**
-
-↓
-
-### 📈 Grow
-
-**Every project is another step forward.**
-
-</div>
-
-
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="mailto:pp50646464@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Patelprince6064">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Patelprince6064/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-five-omega-67.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building today. Learning every day. Shipping tomorrow.
-
-**"Code is not just about solving problems — it's about creating possibilities."**
-
-<br>
-
-⭐ **If you find something interesting here, feel free to explore!**
-
-</div>
+<p align="center"><sub>Patel Prince · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
