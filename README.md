@@ -14,7 +14,7 @@
 
 <img
   src="vidssave.com Vj Loop 04 720P.gif"
-  width="180"
+  width="320"
   alt="AI and Full-Stack Developer"
 />
 
