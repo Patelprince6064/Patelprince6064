@@ -117,10 +117,12 @@ React · Node.js · Express · MongoDB · OpenAI API
 </p>
 
 <p>
+<a href="https://ai-exam-prep-psi.vercel.app/">Live Demo →</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Patelprince6064/AI-exam-prep">GitHub →</a>
+</p>
 
 </td>
-
-<td width="50%" valign="top">
 
 <h3>
 <a href="https://github.com/Patelprince6064/DSA-Sheet">
