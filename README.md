@@ -12,7 +12,7 @@
 </td>
 <td width="36%" valign="middle" align="center">
 <img
-  src="./ai-developer-animation.gif"
+  src="https://raw.githubusercontent.com/Patelprince6064/README/main/ai-developer-animation.gif"
   width="180"
   alt="AI and Full-Stack Developer"
 />
