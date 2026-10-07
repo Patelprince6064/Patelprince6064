@@ -3,9 +3,8 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · patelprince6064</sub></p>
 <h1>Patel Prince</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>AI/ML & Full-Stack Developer</h2>
 <p>AI/ML &amp; Full-Stack Developer | Python | Machine Learning | React.js | FastAPI | Building Real-World AI Applications</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
@@ -18,7 +17,6 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
 
 <h2>GitHub at a Glance</h2>
 
@@ -242,16 +240,6 @@ Git · GitHub · Docker · Jupyter · Vercel
 
 </tr>
 </table>
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>54% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>25% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>15% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
-
 
 <hr />
 
