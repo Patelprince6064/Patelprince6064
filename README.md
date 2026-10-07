@@ -59,6 +59,49 @@
 
 <td width="50%" valign="top">
 
+<h3>NOVA — AI Agent Platform</h3>
+
+<p>
+Autonomous AI assistant designed to understand user requests, plan tasks,
+use tools, and execute multi-step workflows with intelligent responses.
+</p>
+
+<p>
+Python · FastAPI · React · Vite · AI Agents · Tool Calling · Automation
+</p>
+
+<p>
+<strong>Private Project</strong>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>AEVRIX — Autonomous AI Agent Platform</h3>
+
+<p>
+Full-stack autonomous AI agent platform with planning, tool calling,
+persistent memory, RAG, workflows, multi-agent orchestration,
+document intelligence, and browser automation.
+</p>
+
+<p>
+FastAPI · React · Vite · Tailwind CSS · PostgreSQL · RAG · AI Agents
+</p>
+
+<p>
+<strong>Private Project</strong>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 <h3>AI Exam Prep</h3>
 
 <p>
