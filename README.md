@@ -283,20 +283,19 @@ and collaborations in AI/ML and full-stack development.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br /><br />
+&nbsp;&nbsp;
 
 <a href="https://prince-builds.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
-<br /><br />
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </td>
-
 </tr>
 </table>
 
