@@ -11,7 +11,11 @@
 <p><a href="https://github.com/patelprince6064">GitHub</a> &nbsp;·&nbsp; <a href="https://prince-builds.vercel.app/">Website</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/181195334?u=f7c66e0fe653b8bf18a194508e4269d61a040556&amp;v=4" width="180" alt="Patel Prince GitHub avatar" />
+<img
+  src="./ai-developer-animation.gif"
+  width="180"
+  alt="AI and Full-Stack Developer"
+/>
 </td>
 </tr>
 </table>
