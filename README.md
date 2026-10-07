@@ -8,15 +8,14 @@
 <p>AI/ML &amp; Full-Stack Developer | Python | Machine Learning | React.js | FastAPI | Building Real-World AI Applications</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
-<p>
-<a href="https://github.com/Patelprince6064">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://prince-builds.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
+<p style="margin: 0;">
+  <a href="https://github.com/Patelprince6064" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://prince-builds.vercel.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <img
   src="vidssave.com Vj Loop 04 720P.gif"
