@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+<td width="36%" valign="middle" align="center">
 
 <img
   src="vidssave.com Vj Loop 04 720P.gif"
