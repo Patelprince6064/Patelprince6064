@@ -48,12 +48,6 @@
 
 <p><sub>AI/ML &amp; Full-Stack Developer | Python | Machine Learning | React.js | FastAPI | Building Real-World AI Applications</sub></p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=patelprince6064&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181195334%3Fu%3Df7c66e0fe653b8bf18a194508e4269d61a040556%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Patel Prince GitHub proof metrics" />
-</picture>
-</p>
 
 <h2>Selected Work</h2>
 
