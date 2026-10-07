@@ -51,30 +51,10 @@
 </table>
 
 <p><sub>AI/ML &amp; Full-Stack Developer | Python | Machine Learning | React.js | FastAPI | Building Real-World AI Applications</sub></p>
-
 <h2>Selected Work</h2>
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>NOVA — AI Agent Platform</h3>
-
-<p>
-Autonomous AI assistant designed to understand user requests, plan tasks,
-use tools, and execute multi-step workflows with intelligent responses.
-</p>
-
-<p>
-Python · FastAPI · React · Vite · AI Agents · Tool Calling · Automation
-</p>
-
-<p>
-<strong>Private Project</strong>
-</p>
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -88,6 +68,25 @@ document intelligence, and browser automation.
 
 <p>
 FastAPI · React · Vite · Tailwind CSS · PostgreSQL · RAG · AI Agents
+</p>
+
+<p>
+<strong>Private Project</strong>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>NOVA — AI Agent Platform</h3>
+
+<p>
+Autonomous AI assistant designed to understand user requests, plan tasks,
+use tools, and execute multi-step workflows with intelligent responses.
+</p>
+
+<p>
+Python · FastAPI · React · Vite · AI Agents · Tool Calling · Automation
 </p>
 
 <p>
