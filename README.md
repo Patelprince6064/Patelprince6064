@@ -282,19 +282,34 @@ and collaborations in AI/ML and full-stack development.
 
 <p>
 <a href="https://github.com/Patelprince6064">
-<strong>GitHub ↗</strong>
+<img src="https://cdn.simpleicons.org/github/ffffff"
+     width="22"
+     height="22"
+     alt="GitHub"
+     valign="middle" />
+&nbsp; <strong>GitHub</strong>
 </a>
 </p>
 
 <p>
 <a href="https://prince-builds.vercel.app/">
-<strong>Portfolio ↗</strong>
+<img src="https://cdn.simpleicons.org/googlechrome/ffffff"
+     width="22"
+     height="22"
+     alt="Portfolio"
+     valign="middle" />
+&nbsp; <strong>Portfolio</strong>
 </a>
 </p>
 
 <p>
 <a href="https://www.linkedin.com/in/prince-patel-b0075832a/">
-<strong>LinkedIn ↗</strong>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+     width="22"
+     height="22"
+     alt="LinkedIn"
+     valign="middle" />
+&nbsp; <strong>LinkedIn</strong>
 </a>
 </p>
 
