@@ -15,6 +15,9 @@
   <a href="https://prince-builds.vercel.app/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/prince-patel-b0075832a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </p>
 <td width="36%" valign="middle" align="center">
 
