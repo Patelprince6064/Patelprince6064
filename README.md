@@ -198,7 +198,7 @@ React · Node.js · Express · MongoDB
 </tr>
 </table>
 
-<<h2>Technical Toolkit</h2>
+<h2>Technical Toolkit</h2>
 
 <table width="100%">
 <tr>
