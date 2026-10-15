@@ -124,9 +124,9 @@ React · Node.js · Express · MongoDB · Groq AI
 </p>
 
 <p>
-<a href="https://exam-iq-tau.vercel.app/">Live Demo →</a>
+<a href="https://examiq-prep.vercel.app/">Live Demo →</a>
 &nbsp; · &nbsp;
-<a href="https://github.com/Patelprince6064/AI-exam-prep">GitHub →</a>
+<a href="https://github.com/Patelprince6064/ExamIQ">GitHub →</a>
 </p>
 
 </td>
