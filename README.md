@@ -111,19 +111,20 @@ Python · FastAPI · React · Vite · Voice AI · AI Agents · Tool Calling · A
 
 <td width="50%" valign="top">
 
-<h3>AI Exam Prep</h3>
+<h3>ExamIQ – AI Exam Preparation Platform</h3>
 
 <p>
-AI-powered learning platform that uses LLMs to generate study materials,
-summaries, quizzes, and interactive exam-preparation assistance.
+AI-powered exam preparation platform featuring an intelligent AI tutor,
+personalized study planning, interactive quizzes, subject-wise analytics,
+PDF-based learning, and previous-year question paper analysis.
 </p>
 
 <p>
-React · Node.js · Express · MongoDB · OpenAI API
+React · Node.js · Express · MongoDB · Groq AI
 </p>
 
 <p>
-<a href="https://ai-exam-prep-psi.vercel.app/">Live Demo →</a>
+<a href="https://exam-iq-tau.vercel.app/">Live Demo →</a>
 &nbsp; · &nbsp;
 <a href="https://github.com/Patelprince6064/AI-exam-prep">GitHub →</a>
 </p>
