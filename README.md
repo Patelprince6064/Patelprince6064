@@ -38,12 +38,12 @@
 <table width="100%">
 <tr>
 <td width="25%" align="center">
-<strong>15</strong><br>
+<strong>20</strong><br>
 <sub>Repositories</sub>
 </td>
 
 <td width="25%" align="center">
-<strong>431</strong><br>
+<strong>554</strong><br>
 <sub>Contributions</sub>
 </td>
 
