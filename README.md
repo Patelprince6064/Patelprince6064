@@ -33,27 +33,27 @@
 </div>
 
 
-<h2>GitHub at a Glance</h2>
+## GitHub at a Glance
 
 <table width="100%">
 <tr>
 <td width="25%" align="center">
-<strong>15</strong><br>
+<strong><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatelprince6064&query=%24.public_repos&label=&color=181717&logo=github" alt="Live public repository count" /></strong><br>
 <sub>Repositories</sub>
 </td>
 
 <td width="25%" align="center">
-<strong>431</strong><br>
+<strong><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FPatelprince6064%3Fformat%3Dclassic&style=flat&logo=github&color=181717" alt="GitHub contributions" /></strong><br>
 <sub>Contributions</sub>
 </td>
 
 <td width="25%" align="center">
-<strong>3</strong><br>
+<strong><img src="https://img.shields.io/github/followers/Patelprince6064?label=&color=181717&logo=github" alt="Live GitHub followers" /></strong><br>
 <sub>Followers</sub>
 </td>
 
 <td width="25%" align="center">
-<strong>0</strong><br>
+<strong><img src="https://img.shields.io/github/stars/Patelprince6064?affiliations=OWNER&label=&color=181717&logo=github" alt="Stars across owned repositories" /></strong><br>
 <sub>Stars</sub>
 </td>
 </tr>
