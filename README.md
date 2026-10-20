@@ -33,28 +33,28 @@
 </div>
 
 
-## GitHub at a Glance
+<h2>GitHub at a Glance</h2>
 
 <table width="100%">
 <tr>
 <td width="25%" align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatelprince6064&query=%24.public_repos&label=&color=181717&logo=github" alt="Repositories"><br>
-  <sub>Repositories</sub>
+<strong>15</strong><br>
+<sub>Repositories</sub>
 </td>
 
 <td width="25%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patelprince6064&show_icons=true&hide_title=true&hide_rank=true&hide=issues,prs,commits&count_private=false&theme=transparent" alt="GitHub Stats"><br>
-  <sub>Contributions</sub>
+<strong>431</strong><br>
+<sub>Contributions</sub>
 </td>
 
 <td width="25%" align="center">
-  <img src="https://img.shields.io/github/followers/Patelprince6064?label=&color=181717&logo=github" alt="Followers"><br>
-  <sub>Followers</sub>
+<strong>3</strong><br>
+<sub>Followers</sub>
 </td>
 
 <td width="25%" align="center">
-  <img src="https://img.shields.io/github/stars/Patelprince6064?affiliations=OWNER&label=&color=181717&logo=github" alt="Stars"><br>
-  <sub>Stars</sub>
+<strong>0</strong><br>
+<sub>Stars</sub>
 </td>
 </tr>
 </table>
